@@ -4,16 +4,16 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: yansu0711@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: Vanxin
+  email: vanxinliu@gmail.com
+  link: http://ivanxin.com
+  weibo: http://weibo.com/vanxinliu
+  github: http://github.com/vanxin
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: Vanxin's Blog 
+description: Vanxin's Blog 
+url: http://ivanxin.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -23,11 +23,11 @@ favicon: /public/upload/gavatar/favicon.ico
 # google analytics 设置
 ga:
   id: UA-43667383-1
-  url: yansu.org
+  url: ivanxin.com
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: VanxinLiu
 
 # 主题设置，自动激活某个标签
 active: 技术
