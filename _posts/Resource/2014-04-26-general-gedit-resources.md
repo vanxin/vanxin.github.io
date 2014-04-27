@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gedit 常用资源
+title: Gedit 常用资源
 category: 资源
 tags: Gedit
 keywords: Gedit
